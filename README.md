@@ -21,3 +21,8 @@
   > [neede_image3](http://note.youdao.com/noteshare?id=dfc700f510ed5f8e26fec26ab5fcaf34)
   
   3. [statement4](http://note.youdao.com/noteshare?id=67677357e96c378149cbc4fd3eb262bc)
+
+- [x] exercise5
+
+  1. [statement5](http://note.youdao.com/noteshare?id=1e4ee6f81aa565bca8c0d931bb8ee990)
+  2. [code5](http://note.youdao.com/noteshare?id=061da04030fe1e2a1a265010a98417b8)
