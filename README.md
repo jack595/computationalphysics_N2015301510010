@@ -9,7 +9,7 @@
   1. [code](http://note.youdao.com/noteshare?id=a0198e895ad1648c3e8dadb5dd580633)
   2. [statement](http://note.youdao.com/noteshare?id=861655305cc0bb6b2ce1a3d88b85cd2c)
   
-- [x] exercise4
+- exercise4
   1. [code_cannon_2.10](http://note.youdao.com/noteshare?id=6e78e2fab1f3681f633cb8cdcc25f957)
   2. [code_pygame_cannon](http://note.youdao.com/noteshare?id=3a0c2fdb4a056906acdc5948150c4768)
   > [needed_ttf_file](http://note.youdao.com/noteshare?id=f13512a21e33ae3c4d3d4e533c77bf60)
@@ -25,4 +25,5 @@
 - [x] exercise5
 
   1. [statement5](http://note.youdao.com/noteshare?id=1e4ee6f81aa565bca8c0d931bb8ee990)
+  
   2. [code5](http://note.youdao.com/noteshare?id=061da04030fe1e2a1a265010a98417b8)
