@@ -22,8 +22,13 @@
   
   3. [statement4](http://note.youdao.com/noteshare?id=67677357e96c378149cbc4fd3eb262bc)
 
-- [x] exercise5
+- exercise5（上次星期五我不小心忘记上传链接到github了，怕助教老师没看到，特此标记）
 
   1. [statement5](http://note.youdao.com/noteshare?id=1e4ee6f81aa565bca8c0d931bb8ee990)
   
   2. [code5](http://note.youdao.com/noteshare?id=061da04030fe1e2a1a265010a98417b8)
+  
+ - [x] exercise6
+ 
+  1. [statement6](http://note.youdao.com/noteshare?id=ed6ecb544b782e2842f0b3f3def3eeb4)
+  2. [code6](http://note.youdao.com/noteshare?id=6b3f5907bbaa6b6dab29f38dcde24070)
