@@ -22,7 +22,7 @@
   
   3. [statement4](http://note.youdao.com/noteshare?id=67677357e96c378149cbc4fd3eb262bc)
 
-- exercise5（上次星期五我不小心忘记上传链接到github了，怕助教老师没看到，特此标记）
+- exercise5
 
   1. [statement5](http://note.youdao.com/noteshare?id=1e4ee6f81aa565bca8c0d931bb8ee990)
   
