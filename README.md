@@ -28,7 +28,12 @@
   
   2. [code5](http://note.youdao.com/noteshare?id=061da04030fe1e2a1a265010a98417b8)
   
- - [x] exercise6
+ -  exercise6
  
   1. [statement6](http://note.youdao.com/noteshare?id=ed6ecb544b782e2842f0b3f3def3eeb4)
   2. [code6](http://note.youdao.com/noteshare?id=6b3f5907bbaa6b6dab29f38dcde24070)
+  
+   - [x] exercise7
+ 
+  1. [statement7](http://note.youdao.com/noteshare?id=77e12c088c159f1be7b22604a004edb1)
+  2. [code7](http://note.youdao.com/noteshare?id=84dbde6194405b5d839cf5c2354f889e)
