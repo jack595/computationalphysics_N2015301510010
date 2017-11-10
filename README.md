@@ -45,3 +45,8 @@
   2. [code](http://note.youdao.com/noteshare?id=3bf69e809dc4ee5d4e03a3fb2952f295)
   
   3. [needed_image](http://note.youdao.com/noteshare?id=df6c4834c5caad10fbf61772b1575f61)
+  
+  - [x] exercise8
+ 
+  1. [statement8](http://note.youdao.com/noteshare?id=ba897a228df07cd85c89a00d4aa7c408)
+  2. [code8](http://note.youdao.com/noteshare?id=4575422046aeebd6b07ff385e0868eaa)
