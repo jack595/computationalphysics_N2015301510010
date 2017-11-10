@@ -38,7 +38,7 @@
   1. [statement7](http://note.youdao.com/noteshare?id=77e12c088c159f1be7b22604a004edb1)
   2. [code7](http://note.youdao.com/noteshare?id=84dbde6194405b5d839cf5c2354f889e)
   
-  - [x] 期中作业
+  - [x]期中作业
  
   1. [cannon_game_statement](http://note.youdao.com/noteshare?id=e7007e65fb9c0ae8102e940c4bc01f8f)
   
