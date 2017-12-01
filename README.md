@@ -38,7 +38,7 @@
   1. [statement7](http://note.youdao.com/noteshare?id=77e12c088c159f1be7b22604a004edb1)
   2. [code7](http://note.youdao.com/noteshare?id=84dbde6194405b5d839cf5c2354f889e)
   
-  - [x] 期中作业
+  - 期中作业
  
   1. [cannon_game_statement](http://note.youdao.com/noteshare?id=e7007e65fb9c0ae8102e940c4bc01f8f)
   
@@ -46,7 +46,12 @@
   
   3. [needed_image](http://note.youdao.com/noteshare?id=df6c4834c5caad10fbf61772b1575f61)
   
-  - [x] exercise8
+  - exercise8
  
   1. [statement8](http://note.youdao.com/noteshare?id=ba897a228df07cd85c89a00d4aa7c408)
   2. [code8](http://note.youdao.com/noteshare?id=4575422046aeebd6b07ff385e0868eaa)
+  
+    - [x] exercise9
+ 
+  1. [statement9](http://www.jianshu.com/p/d18570b373a0)
+  2. [code9](http://note.youdao.com/noteshare?id=c8b8478163b1d462213264c29d9b9687)
