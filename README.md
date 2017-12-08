@@ -51,7 +51,12 @@
   1. [statement8](http://note.youdao.com/noteshare?id=ba897a228df07cd85c89a00d4aa7c408)
   2. [code8](http://note.youdao.com/noteshare?id=4575422046aeebd6b07ff385e0868eaa)
   
-    - [x] exercise9
+    -  exercise9
  
   1. [statement9](http://www.jianshu.com/p/d18570b373a0)
   2. [code9](http://note.youdao.com/noteshare?id=c8b8478163b1d462213264c29d9b9687)
+  
+      - [x] exercise10
+ 
+  1. [statement10](http://note.youdao.com/noteshare?id=55a41d3983ba03010666a0f5cfd6136a)
+  2. [code10](http://note.youdao.com/noteshare?id=db2667557aa644e7de788e32d6a61ed2)
